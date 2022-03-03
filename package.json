@@ -1,0 +1,14 @@
+{
+  "name": "elektrobit",
+  "version": "1.0.0",
+  "description": "Elektrobit Technical Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sebastian Chingate",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
